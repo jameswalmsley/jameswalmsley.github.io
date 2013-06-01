@@ -2,6 +2,7 @@
 layout: projects
 title: FullFAT
 prev_section: bitthunder
+next_section: infralib
 permalink: /projects/fullfat/
 ---
 
